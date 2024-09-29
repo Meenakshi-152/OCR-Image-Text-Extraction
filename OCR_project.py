@@ -100,8 +100,8 @@ demo2 = gr.Interface(
 # In[8]:
 
 
-demo.launch()
-demo2.launch()
+demo.launch(share=True)
+demo2.launch(share=True)
 
 
 # In[ ]:
